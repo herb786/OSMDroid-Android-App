@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android Playground</string>
+    <string name="crash_toast_text">Report Crash!</string>
+</resources>

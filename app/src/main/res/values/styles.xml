@@ -1,0 +1,30 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Dialog">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.Widget.TextView" parent="Theme.AppCompat.Dialog">
+        <item name="fontPath">fonts/Amaranth-Regular.ttf</item>
+    </style>
+
+    <style name="TextAppearance.FontPath" parent="android:TextAppearance.DialogWindowTitle">
+        <!-- Custom Attr-->
+        <item name="fontPath">fonts/Amaranth-Regular.ttf</item>
+    </style>
+
+    <style name="style1">
+        <item name="android:textColor">@color/color1</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="style2">
+        <item name="android:textColor">@color/color2</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+</resources>

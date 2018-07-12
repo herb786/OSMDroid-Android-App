@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "702564687068",
+    "firebase_url": "https://androidplayground-4660c.firebaseio.com",
+    "project_id": "androidplayground-4660c",
+    "storage_bucket": "androidplayground-4660c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702564687068:android:73aa6dfe1ec4f135",
+        "android_client_info": {
+          "package_name": "com.hacaller.androidplayground"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702564687068-kgq7mc693feegc65b7t1ihjuf3g2p4h0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU5zBw7tYjmt_sftZrKa2Tcet-1xdSUOE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
